@@ -43,3 +43,9 @@ pip install numpy
  ```bash
 pip install mlxtend
 ```
+# Start
+1. Go on folder containing network.py
+2. Open terminal and type:
+ ```bash
+python3 network.py
+```
